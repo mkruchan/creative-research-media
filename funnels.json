@@ -1,8 +1,103 @@
 {
+ "0024944576355a61": {
+  "url": "https://att.trk.fitforlives.com/6862eaf4e716389beaebe3c8",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://att.trk.fitforlives.com/6862eaf4e716389beaebe3c8\" is interrupted by another navigation"
+ },
+ "0435f2a6ba07caa3": {
+  "url": "https://www.newdayusa.com/newday_lp/lp/Br_Classic_1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: net::ERR_ABORTED at https://www.newdayusa.com/newday_lp/lp/Br_Classic_1"
+ },
+ "0579ba7ba74af0a2": {
+  "url": "https://www.novatrendnews.com/smart-tv-de-sbmt",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.novatrendnews.com/smart-tv-de-sbmt\" is interrupted by another navigation to \"https"
+ },
+ "06108a472b7c403a": {
+  "url": "https://apply.amerisave.com/quote/v1/cashout",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://apply.amerisave.com/quote/v1/cashout\" is interrupted by another navigation to \"https:/"
+ },
+ "097388c3c1ddb7ee": {
+  "url": "https://partners.thewaystowealth.com/point/",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "0b491dc4e730c27a": {
+  "url": "https://avulea.com/pages/comfort",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://avulea.com/pages/comfort\" is interrupted by another navigation to \"https://sakura-kniv"
+ },
  "0d13876ec420fea5": {
   "url": "https://info.trendseeker.co/breaking-ed-2026",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "0dfe7c911c93b718": {
+  "url": "https://try.cmghomeloans.com/dolo/refinance/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://try.cmghomeloans.com/dolo/refinance/\" is interrupted by another navigation to \"https:/"
+ },
+ "0ffd983bd17d125d": {
+  "url": "https://www.stockton.com/refinancing/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.stockton.com/refinancing/\" is interrupted by another navigation to \"https://try.cm"
+ },
+ "105041e3d751070c": {
+  "url": "https://sp.goldentree.fr/p/mpr/mpr-p4/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://sp.goldentree.fr/p/mpr/mpr-p4/\" is interrupted by another navigation to \"https://ameri"
+ },
+ "1091dbeabf17f881": {
+  "url": "https://nourishlifeclub.com/nourish-life-insights/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://nourishlifeclub.com/nourish-life-insights/\" is interrupted by another navigation to \"h"
+ },
+ "118bc19e9beda8a8": {
+  "url": "https://intelloans.com/apply",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://intelloans.com/apply\" is interrupted by another navigation to \"https://stockton.com/re"
+ },
+ "13a31acaef7d862a": {
+  "url": "https://cash-out-s1l-meta.secure-clix.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://cash-out-s1l-meta.secure-clix.com/\" is interrupted by another navigation to \"https://w"
+ },
+ "13b7695fccb64107": {
+  "url": "https://itrustcapital.com/precious-metals",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://itrustcapital.com/precious-metals\" is interrupted by another navigation to \"https://of"
+ },
+ "14ae01d42b3d4fe0": {
+  "url": "https://americanbeautyinsights.org/glp/tight-skin-over-65all-us-tbl-tlpc-v1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://americanbeautyinsights.org/glp/tight-skin-over-65all-us-tbl-tlpc-v1\" is interrupted by"
+ },
+ "15e1f3d4c16c49b4": {
+  "url": "https://news.wealthmoneycatalyst.com/infogoldkit",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://news.wealthmoneycatalyst.com/infogoldkit\" is interrupted by another navigation to \"htt"
+ },
+ "177c43e03c7882f3": {
+  "url": "https://money.com/land/gold-iras-social/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://money.com/land/gold-iras-social/\" is interrupted by another navigation to \"https://www"
  },
  "181de6b13fda9293": {
   "url": "https://directmeds.com/dm-glp1-z/index-exclusive.php",
@@ -14,33 +109,273 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "1cc012bf68618685": {
+  "url": "https://link.goldco.com/protection4",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://link.goldco.com/protection4\" is interrupted by another navigation to \"https://goldpath"
+ },
  "1eb4e7fad96d27c3": {
   "url": "https://quad.medvi.org/hs",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "1ec22cb231c31c1a": {
+  "url": "https://www.mutualofomaha.com/life-insurance/whole-life-insurance/calculator",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.mutualofomaha.com/life-insurance/whole-life-insurance/calculator\" is interrupted b"
+ },
+ "1fd7ea675d9529d5": {
+  "url": "https://www.nerdwallet.com/prequalify/m/mortgage-heloc/lp1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.nerdwallet.com/prequalify/m/mortgage-heloc/lp1\" is interrupted by another navigati"
+ },
+ "20d79e2b77df3c21": {
+  "url": "https://thrivehealthpaths.com/thrive-health-journal/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://thrivehealthpaths.com/thrive-health-journal/\" is interrupted by another navigation to "
+ },
+ "20f32672b47cedac": {
+  "url": "https://en.healthweekly.info/v209792-en-V3-DirectMax/index.php",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://en.healthweekly.info/v209792-en-V3-DirectMax/index.php\" is interrupted by another navi"
  },
  "2261959c6bcb97de": {
   "url": "https://get-syngas.com/article/en/",
   "taken": "2026-10-22",
   "ok": true
  },
+ "230c762bacdb769a": {
+  "url": "https://neurovive.today/hp/presell/03/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://neurovive.today/hp/presell/03/\" is interrupted by another navigation to \"https://www.t"
+ },
  "24afbdbff28005aa": {
   "url": "https://ecodriveportal.com/fuelsaver-uk/",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "258ac40b9d1fc1f2": {
+  "url": "https://offers.bankrate.com/mortgages/br-branded",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://offers.bankrate.com/mortgages/br-branded\" is interrupted by another navigation to \"htt"
+ },
+ "299601d2b131bace": {
+  "url": "https://usgosales.com/click.php",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://usgosales.com/click.php\" is interrupted by another navigation to \"https://metabolae.co"
+ },
+ "313419facbcf951d": {
+  "url": "https://funnel.thequoteassist.com/",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "32f5e0ef7ae727fb": {
+  "url": "https://yesyoucanmedical.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://yesyoucanmedical.com/\" is interrupted by another navigation to \"https://weapon.thewolf"
+ },
+ "34368e7fb12d74ab": {
+  "url": "https://www.societymortgage.com/va-loans-bing/",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "34512b081beacd74": {
+  "url": "https://broadstreetgold.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://broadstreetgold.com/\" is interrupted by another navigation to \"https://westerngoldira."
+ },
+ "345975111a3306fa": {
+  "url": "https://metabolae.com/pages/adv-lfs3-icu-nurse-how-often-ceylon-cinnamon-aref",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://metabolae.com/pages/adv-lfs3-icu-nurse-how-often-ceylon-cinnamon-aref\" is interrupted "
+ },
+ "34b01eec35001b73": {
+  "url": "https://www.sofi.com/home-loans/home-equity-loan/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.sofi.com/home-loans/home-equity-loan/\" is interrupted by another navigation to \"ht"
+ },
+ "35e6c1f840cf2db4": {
+  "url": "https://find.lifestyle-wave.com/68b6624d40ee02accf2bc113",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://find.lifestyle-wave.com/68b6624d40ee02accf2bc113\" is interrupted by another navigation"
+ },
+ "392146b39c8d7b87": {
+  "url": "https://www.avepeakwellness.com/brasong-offer5",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.avepeakwellness.com/brasong-offer5\" is interrupted by another navigation to \"https"
+ },
+ "3945c8ac8a3b507a": {
+  "url": "https://wellnessalways.org/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://wellnessalways.org/\" is interrupted by another navigation to \"https://getcovered.quili"
+ },
+ "3b17717c3091fb18": {
+  "url": "https://www.rentreporters.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.rentreporters.com/\" is interrupted by another navigation to \"https://www.creditbui"
+ },
+ "41d31b4a0cf6a26a": {
+  "url": "https://www.bestmoney.com/mortgage-loan-match",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "42c4d0efc540f1e0": {
+  "url": "https://www.lendingtree.com/form/grove-light/he/equity_1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.lendingtree.com/form/grove-light/he/equity_1\" is interrupted by another navigation"
+ },
+ "4368fe30f69451d4": {
+  "url": "https://westerngoldira.com/social/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://westerngoldira.com/social/\" is interrupted by another navigation to \"chrome-error://ch"
+ },
+ "4377b4c42d8f6084": {
+  "url": "https://learn.augustapreciousmetals.com/company-checklist-1/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://learn.augustapreciousmetals.com/company-checklist-1/\" is interrupted by another naviga"
+ },
+ "4428a98f9d12fe17": {
+  "url": "https://www.bankerology.com/article/is-now-the-right-time-to-refinance-your-mortgage-ob",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.bankerology.com/article/is-now-the-right-time-to-refinance-your-mortgage-ob\" is in"
+ },
+ "443fc0fa316f4ab5": {
+  "url": "https://info.whatsamortgage.com/home-equity-loans",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "45be2f2c8eb46d30": {
+  "url": "https://www.creditbuilderiq.com/lander/facebook/credit-bundle-1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.creditbuilderiq.com/lander/facebook/credit-bundle-1\" is interrupted by another nav"
+ },
+ "47e1d3c86965aec9": {
+  "url": "https://magazin.getcloudone.de/adv03-Nervenschalter",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://magazin.getcloudone.de/adv03-Nervenschalter\" is interrupted by another navigation to \""
+ },
+ "4a2f04eb3ebfd765": {
+  "url": "https://searchlinktodaypro.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://searchlinktodaypro.com/\" is interrupted by another navigation to \"https://nbcy.promptc"
  },
  "4c5da4745f801a18": {
   "url": "https://acquistaitalia.com/directmeds/",
   "taken": "2026-10-22",
   "ok": true
  },
+ "4d4798b7b7e120bb": {
+  "url": "https://www.aven.com/lowerhelocpayments",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.aven.com/lowerhelocpayments\" is interrupted by another navigation to \"https://www."
+ },
+ "4fd34e89857a5988": {
+  "url": "https://trendiestdeals.com/content/ca-information-on-gold-ira-basics-and-key-investment-considerations-5356760d",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://trendiestdeals.com/content/ca-information-on-gold-ira-basics-and-key-investment-consid"
+ },
+ "51ef82db3a80e55f": {
+  "url": "https://lp.noblegoldinvestments.com/wealth-kit",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://lp.noblegoldinvestments.com/wealth-kit\" is interrupted by another navigation to \"https"
+ },
  "52745eb7d72e51d8": {
   "url": "https://get-syngas.com/pp/uk/",
   "taken": "2026-10-22",
   "ok": true
  },
+ "59bc7700f55ac103": {
+  "url": "https://www.fund.com/top/home-equity/heloc-rates/desk/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.fund.com/top/home-equity/heloc-rates/desk/\" is interrupted by another navigation t"
+ },
+ "5bf9bde358dba2c2": {
+  "url": "https://www.creditkarma.com/home-loans/i/best-mortgage-refinance-lenders",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.creditkarma.com/home-loans/i/best-mortgage-refinance-lenders\" is interrupted by an"
+ },
+ "631bc110edcceb7d": {
+  "url": "https://welcome.loandepot.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://welcome.loandepot.com/\" is interrupted by another navigation to \"https://www.nerdwalle"
+ },
+ "64471da48e89e586": {
+  "url": "https://financewyze.com/smartcredit/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://financewyze.com/smartcredit/\" is interrupted by another navigation to \"https://yesyouc"
+ },
+ "669535ef6db6e3c8": {
+  "url": "https://www.agewelljournal.com/bkp-ps-1-n-c",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.agewelljournal.com/bkp-ps-1-n-c\" is interrupted by another navigation to \"https://"
+ },
+ "67170c5b9745dad5": {
+  "url": "https://www.lendgo.com/heloc/la/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.lendgo.com/heloc/la/\" is interrupted by another navigation to \"https://www.creditk"
+ },
  "67f0a7d059f37040": {
   "url": "https://health-insider24.net/engergie-saver-ob-mec",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "69f8883b4b2c9993": {
+  "url": "https://www.search2online.com/Search",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.search2online.com/Search\" is interrupted by another navigation to \"https://finance"
+ },
+ "6bc0df9dded0d788": {
+  "url": "https://bobbybarnes.homeinquirequiz.com/home-6224-4809-9424-1904",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "7190d7adc6870e6f": {
+  "url": "https://www.mortgagehelpcenter.org/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.mortgagehelpcenter.org/\" is interrupted by another navigation to \"https://www.mort"
+ },
+ "7405914b8e5478f4": {
+  "url": "https://statetrendsusa.com/local-carry/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://statetrendsusa.com/local-carry/\" is interrupted by another navigation to \"https://bbhe"
+ },
+ "750c068e10d5c5d8": {
+  "url": "https://us.liyeany.com/lander/eco-obd2-2709/",
   "taken": "2026-10-22",
   "ok": true
  },
@@ -49,50 +384,399 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "78ae230af4c6cf9b": {
+  "url": "https://quiz.sunlight.com/cv-1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://quiz.sunlight.com/cv-1\" is interrupted by another navigation to \"https://health-inside"
+ },
  "796e5cfbe06b6359": {
   "url": "https://lymphsystemsupport.com/order-now4",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "7db4290f9807bc86": {
+  "url": "https://colonialpenn.com/products/guaranteedacceptance",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://colonialpenn.com/products/guaranteedacceptance\" is interrupted by another navigation t"
+ },
+ "7fdae9c6855f8eb2": {
+  "url": "https://www.forbes.com/advisor/l/online-mortgage-rates-v2/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.forbes.com/advisor/l/online-mortgage-rates-v2/\" is interrupted by another navigati"
+ },
+ "81ae5f67fcabc58e": {
+  "url": "https://lp.ownup.com/buyorrefinance/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://lp.ownup.com/buyorrefinance/\" is interrupted by another navigation to \"https://welcome"
  },
  "8294a3216e49781e": {
   "url": "https://wereportyourrent.com/",
   "taken": "2026-10-22",
   "ok": true
  },
+ "8630f0e21fca2224": {
+  "url": "https://bbhealthplus.com/weight-loss-lp",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://bbhealthplus.com/weight-loss-lp\" is interrupted by another navigation to \"https://api."
+ },
+ "8b2e94555daef51f": {
+  "url": "https://www.ethoslife.com/life/get-life-insurance/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.ethoslife.com/life/get-life-insurance/\" is interrupted by another navigation to \"h"
+ },
+ "8f5370c71e9fca5b": {
+  "url": "https://financebuzz.com/money-moves-grow-wealth-50s-yaez",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://financebuzz.com/money-moves-grow-wealth-50s-yaez\" is interrupted by another navigation"
+ },
  "9150a033a58a8af1": {
   "url": "https://info.trendseeker.co/breaking-ed-comparison",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "935fa6669082e0eb": {
+  "url": "https://online.todayinsightreport.com/advertorial",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://online.todayinsightreport.com/advertorial\" is interrupted by another navigation to \"ht"
  },
  "948797c9e8891039": {
   "url": "https://directmeds.com/dm-offers-stc/",
   "taken": "2026-10-22",
   "ok": true
  },
+ "95bdae7d07e28c6e": {
+  "url": "https://api.leadconnectorhq.com/widget/survey/hb0YaWCnpGdMtpv1Y97k",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://api.leadconnectorhq.com/widget/survey/hb0YaWCnpGdMtpv1Y97k\" is interrupted by another "
+ },
+ "9605996bb41a957b": {
+  "url": "https://www.search2all.com/Search",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.search2all.com/Search\" is interrupted by another navigation to \"https://www.lendgo"
+ },
+ "96d93aaa5e29e8ba": {
+  "url": "https://www.financeofamerica.com/start/estimate/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.financeofamerica.com/start/estimate/\" is interrupted by another navigation to \"htt"
+ },
+ "98f6cc632ad38e1d": {
+  "url": "https://reversemortgageinca.secure-clix.com/",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "9a5b0bee60e0410d": {
+  "url": "https://my.consumeraffairs.com/gold-iras/get-matched/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://my.consumeraffairs.com/gold-iras/get-matched/\" is interrupted by another navigation to"
+ },
+ "9b0f9dfc6e4362d4": {
+  "url": "https://boostmyscore.org/cr16/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://boostmyscore.org/cr16/\" is interrupted by another navigation to \"https://financewyze.c"
+ },
  "9d67a56fea7ff7fa": {
   "url": "https://marketplace.quickenloans.com/",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "a171053dd9501779": {
+  "url": "https://www.hometap.com/overview/social",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.hometap.com/overview/social\" is interrupted by another navigation to \"https://www."
+ },
+ "a2628cab0de11b68": {
+  "url": "https://www.nerdwallet.com/m/mortgages/heloc-compare",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.nerdwallet.com/m/mortgages/heloc-compare\" is interrupted by another navigation to "
  },
  "a329e3b6fd69502c": {
   "url": "https://directmeds.com/dm-offers-stc/questionnaire-1.php",
   "taken": "2026-10-22",
   "ok": true
  },
+ "a593e6174f2731ef": {
+  "url": "https://thetoolshedjournal.org/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://thetoolshedjournal.org/\" is interrupted by another navigation to \"https://thrivehealth"
+ },
+ "a83289c5275208fc": {
+  "url": "https://secure.truegoldrepublic.com/m-gold-standard/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://secure.truegoldrepublic.com/m-gold-standard/\" is interrupted by another navigation to "
+ },
+ "a8e46d3c912a5ac7": {
+  "url": "https://articles.comparisons.org/2301257.php",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://articles.comparisons.org/2301257.php\" is interrupted by another navigation to \"https:/"
+ },
+ "a90758fa0a07564a": {
+  "url": "https://start.veteransfirst.com/lp/va-loan-b1042-s",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://start.veteransfirst.com/lp/va-loan-b1042-s\" is interrupted by another navigation to \"h"
+ },
+ "ac499676ac722600": {
+  "url": "https://globallaunch.store/article/honey9.html",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://globallaunch.store/article/honey9.html\" is interrupted by another navigation to \"https"
+ },
+ "add88afff3713aa5": {
+  "url": "https://www.creditrentboost.com/get-started/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.creditrentboost.com/get-started/\" is interrupted by another navigation to \"https:/"
+ },
+ "b280d092e58146b5": {
+  "url": "https://smartdollartips.com/hea/indextabs.html",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://smartdollartips.com/hea/indextabs.html\" is interrupted by another navigation to \"https"
+ },
+ "b3dfaf593d2f24de": {
+  "url": "https://housetap.co/home-equity",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://housetap.co/home-equity\" is interrupted by another navigation to \"https://cash-out-s1l"
+ },
+ "b4065dff8b7c10a2": {
+  "url": "https://getcovered.quility.com/mortgage-protection-insurance/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://getcovered.quility.com/mortgage-protection-insurance/\" is interrupted by another navig"
+ },
+ "b617b2aa9f83110e": {
+  "url": "https://www.mortgage-insiders.com/top/home-equity/heloc/desk/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.mortgage-insiders.com/top/home-equity/heloc/desk/\" is interrupted by another navig"
+ },
  "b9c85b006e9e97dc": {
   "url": "https://get-syngas.primeshopers.com/checkout/us/",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "bc18015d92f2eaef": {
+  "url": "https://citadelgold.com/buy-gold",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://citadelgold.com/buy-gold\" is interrupted by another navigation to \"https://www.itrustc"
+ },
+ "bc3f170be334b15b": {
+  "url": "https://www.veteransunited.com/lp/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.veteransunited.com/lp/"
+ },
+ "be671621f9c7d34b": {
+  "url": "https://www.mortgagelenderscomparison.com/refinance",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.mortgagelenderscomparison.com/refinance\" is interrupted by another navigation to \""
+ },
+ "c0302987290f020b": {
+  "url": "https://myseniorsolution.com/secure-life-insurance-with-blake-z-fb",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://myseniorsolution.com/secure-life-insurance-with-blake-z-fb\" is interrupted by another "
+ },
+ "c10a70e1e5b7a3b4": {
+  "url": "https://wondermapped.com/en/articles/look-up-home-values-by-address-036d63",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://wondermapped.com/en/articles/look-up-home-values-by-address-036d63\" is interrupted by "
  },
  "c1d5c66a86df4d93": {
   "url": "https://get-syngas.primeshopers.com/checkout/de/",
   "taken": "2026-10-22",
   "ok": true
  },
+ "c26d94c56b3b6ae4": {
+  "url": "https://breatheagain.io/v5",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://breatheagain.io/v5\" is interrupted by another navigation to \"https://globallaunch.stor"
+ },
+ "c62652af7a8455a5": {
+  "url": "https://offer.americanalternativeassets.com/wealth-protection-guide",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://offer.americanalternativeassets.com/wealth-protection-guide\" is interrupted by another"
+ },
+ "c62b199b930a0b4e": {
+  "url": "https://ozoori.com/article/all-01/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://ozoori.com/article/all-01/\" is interrupted by another navigation to \"https://www.credi"
+ },
+ "c62dd81e59cd8df5": {
+  "url": "https://trk.vrmtk.com/66c10b6f8e16eff5bf4ca5c3",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "c89d77007330506c": {
+  "url": "https://www.figure.com/search/why-heloc/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.figure.com/search/why-heloc/\" is interrupted by another navigation to \"https://www"
+ },
+ "c9926c32454309bb": {
+  "url": "https://www.mortgageratespro.com/quotes/steps",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.mortgageratespro.com/quotes/steps\" is interrupted by another navigation to \"https:"
+ },
+ "cfe7e0841d605ad9": {
+  "url": "https://offers.bishopgoldgroup.com/pb-fb-gen/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://offers.bishopgoldgroup.com/pb-fb-gen/\" is interrupted by another navigation to \"https:"
+ },
+ "d0a4248ff4723796": {
+  "url": "https://heraldhealth.aethern.co/fr/news/back-health/adv1-spinepd",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://heraldhealth.aethern.co/fr/news/back-health/adv1-spinepd\" is interrupted by another na"
+ },
+ "d0ac6335a2850ae3": {
+  "url": "https://best.wellnesshome.blog/uk-orivelle-narrative-v2/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://best.wellnesshome.blog/uk-orivelle-narrative-v2/\" is interrupted by another navigation"
+ },
+ "d4db75dc52e55a1f": {
+  "url": "https://health-insider24.net/car-scratcher-pta-tb",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://health-insider24.net/car-scratcher-pta-tb\" is interrupted by another navigation to \"ht"
+ },
+ "d57b639e442d720e": {
+  "url": "https://goldpathretirement.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://goldpathretirement.com/\" is interrupted by another navigation to \"https://news.wealthm"
+ },
+ "d6b77074e6979f55": {
+  "url": "https://ratgeber-direkt.com/e/warum-aerzte-jetzt-vor-giftiger-luft-in-ihrem-kuehlschrank-warnen/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://ratgeber-direkt.com/e/warum-aerzte-jetzt-vor-giftiger-luft-in-ihrem-kuehlschrank-warne"
+ },
+ "d74177e2349ebde2": {
+  "url": "https://go.uvure.com/me/trendingadget/list/43490",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://go.uvure.com/me/trendingadget/list/43490\" is interrupted by another navigation to \"htt"
+ },
+ "d88fab72da654463": {
+  "url": "https://www.temu.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.temu.com/\" is interrupted by another navigation to \"https://www.avepeakwellness.co"
+ },
+ "d8d69dd3d95afd74": {
+  "url": "https://apply.athenamoney.co/introduction",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://apply.athenamoney.co/introduction\" is interrupted by another navigation to \"https://ww"
+ },
+ "dd7bc50c373baf0b": {
+  "url": "https://www.mutualofomahareverse.com/",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "deff3a5e9cac14d8": {
+  "url": "https://livshopo.com/health/blood05-bhBG-LP0279/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://livshopo.com/health/blood05-bhBG-LP0279/\" is interrupted by another navigation to \"htt"
+ },
+ "df2367abf989b2a3": {
+  "url": "https://longbridge-financial.com/landing/calculator-b/",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "df364e35cf250c0f": {
+  "url": "https://diethealt.blog/ca-halogrow-costco-aisle-pop/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://diethealt.blog/ca-halogrow-costco-aisle-pop/\" is interrupted by another navigation to "
+ },
+ "e17bb1f8fde1ba9c": {
+  "url": "https://taskandpurpose.com/sponsored-content/va-home-loans-explained/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://taskandpurpose.com/sponsored-content/va-home-loans-explained/\" is interrupted by anoth"
+ },
+ "e2fcd6690f406786": {
+  "url": "https://shop-n5.hatmeo.com/checkout/dollar/AG187",
+  "taken": "2026-10-22",
+  "ok": true
+ },
+ "e323d682699b47d3": {
+  "url": "https://www.searchit4me.com/search",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.searchit4me.com/search\" is interrupted by another navigation to \"https://taskandpu"
+ },
+ "e51e2b4545526856": {
+  "url": "https://offer.heolyge.com/offer/Heolyge/3d-vortex-halloween-rug/view58955",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://offer.heolyge.com/offer/Heolyge/3d-vortex-halloween-rug/view58955\" is interrupted by a"
+ },
+ "e53fdd01fa6671d2": {
+  "url": "https://weapon.thewolf.marketing/legally-carry-permit2",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://weapon.thewolf.marketing/legally-carry-permit2\" is interrupted by another navigation t"
+ },
+ "e6e4a64b4064bfb1": {
+  "url": "https://www.freerateupdate.com/mortgagerates",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.freerateupdate.com/mortgagerates\" is interrupted by another navigation to \"https:/"
+ },
  "f01f16e4087097f4": {
   "url": "https://quad.medvi.org/intake-dtq",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "f1f8ec3486104ad3": {
+  "url": "https://mylinksearches.com/r2/YXNhcHRpcHMuY29t/information-on-gold-ira-basics-and-key-investment-considerations",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://mylinksearches.com/r2/YXNhcHRpcHMuY29t/information-on-gold-ira-basics-and-key-investme"
+ },
+ "f57bd588fd48b211": {
+  "url": "https://www.esusurent.com/members/build-credit-with-rent",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.esusurent.com/members/build-credit-with-rent\" is interrupted by another navigation"
+ },
+ "f7fb955e430bc33d": {
+  "url": "https://www.splitero.com/create-lp",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.splitero.com/create-lp\" is interrupted by another navigation to \"https://lp.ownup."
  },
  "f84d8968ccf10da6": {
   "url": "https://get-syngas.com/article/de/",
@@ -104,9 +788,51 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "f88fe6452de3ddb3": {
+  "url": "https://sakura-knives.com/pages/story-7",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://sakura-knives.com/pages/story-7\" is interrupted by another navigation to \"https://www."
+ },
+ "fa3302ebbb67b1e7": {
+  "url": "https://journalvitalite.com/x/weight-loss/ps3/tb/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://journalvitalite.com/x/weight-loss/ps3/tb/\" is interrupted by another navigation to \"ht"
+ },
+ "fac0575b98ccd092": {
+  "url": "https://launchpad.rocketmortgage.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://launchpad.rocketmortgage.com/\" is interrupted by another navigation to \"https://apply."
+ },
  "fc5b1b5dcd8e1949": {
   "url": "https://refinance.quickenloans.com/",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "fc9b16d19ed62573": {
+  "url": "https://healthsignaljournal.com/renew/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://healthsignaljournal.com/renew/\" is interrupted by another navigation to \"https://nouri"
+ },
+ "fe03c1cea45b8efa": {
+  "url": "https://homeclean.tips/bathroom-and-shower-glass-maintenance-with-a-cloth-1778151907824245",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://homeclean.tips/bathroom-and-shower-glass-maintenance-with-a-cloth-1778151907824245\" is"
+ },
+ "fe168a9e340a7c81": {
+  "url": "https://www.firsttechfed.com/borrow/home-loans/home-equity",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.firsttechfed.com/borrow/home-loans/home-equity"
+ },
+ "fff9f85a24fc0976": {
+  "url": "https://www.readsleepdigest.com/rv-airbnb-discovery-shoulder-pain-v1",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: Navigation to \"https://www.readsleepdigest.com/rv-airbnb-discovery-shoulder-pain-v1\" is interrupted by anothe"
  }
 }
