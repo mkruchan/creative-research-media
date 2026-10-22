@@ -18,7 +18,8 @@
  "06108a472b7c403a": {
   "url": "https://apply.amerisave.com/quote/v1/cashout",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Attention Required! | Cloudflare)"
  },
  "097388c3c1ddb7ee": {
   "url": "https://partners.thewaystowealth.com/point/",
@@ -149,7 +150,7 @@
   "url": "https://usgosales.com/click.php",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "313419facbcf951d": {
   "url": "https://funnel.thequoteassist.com/",
@@ -209,7 +210,8 @@
  "42c4d0efc540f1e0": {
   "url": "https://www.lendingtree.com/form/grove-light/he/equity_1",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Attention Required! | Cloudflare)"
  },
  "4368fe30f69451d4": {
   "url": "https://westerngoldira.com/social/",
@@ -219,7 +221,8 @@
  "4377b4c42d8f6084": {
   "url": "https://learn.augustapreciousmetals.com/company-checklist-1/",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Just a moment...)"
  },
  "4428a98f9d12fe17": {
   "url": "https://www.bankerology.com/article/is-now-the-right-time-to-refinance-your-mortgage-ob",
@@ -274,7 +277,8 @@
  "59bc7700f55ac103": {
   "url": "https://www.fund.com/top/home-equity/heloc-rates/desk/",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Just a moment...)"
  },
  "5bf9bde358dba2c2": {
   "url": "https://www.creditkarma.com/home-loans/i/best-mortgage-refinance-lenders",
@@ -310,7 +314,7 @@
   "url": "https://www.search2online.com/Search",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "6bc0df9dded0d788": {
   "url": "https://bobbybarnes.homeinquirequiz.com/home-6224-4809-9424-1904",
@@ -350,7 +354,8 @@
  "7db4290f9807bc86": {
   "url": "https://colonialpenn.com/products/guaranteedacceptance",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Access denied)"
  },
  "7fdae9c6855f8eb2": {
   "url": "https://www.forbes.com/advisor/l/online-mortgage-rates-v2/",
@@ -375,7 +380,8 @@
  "8b2e94555daef51f": {
   "url": "https://www.ethoslife.com/life/get-life-insurance/",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Attention Required! | Cloudflare)"
  },
  "8f5370c71e9fca5b": {
   "url": "https://financebuzz.com/money-moves-grow-wealth-50s-yaez",
@@ -406,13 +412,13 @@
   "url": "https://www.search2all.com/Search",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "96d93aaa5e29e8ba": {
   "url": "https://www.financeofamerica.com/start/estimate/",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "98f6cc632ad38e1d": {
   "url": "https://reversemortgageinca.secure-clix.com/",
@@ -423,7 +429,7 @@
   "url": "https://my.consumeraffairs.com/gold-iras/get-matched/",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "bot wall (Press & Hold)"
  },
  "9b0f9dfc6e4362d4": {
   "url": "https://boostmyscore.org/cr16/",
@@ -439,7 +445,7 @@
   "url": "https://www.hometap.com/overview/social",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "a2628cab0de11b68": {
   "url": "https://www.nerdwallet.com/m/mortgages/heloc-compare",
@@ -494,12 +500,14 @@
  "b4065dff8b7c10a2": {
   "url": "https://getcovered.quility.com/mortgage-protection-insurance/",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Just a moment...)"
  },
  "b617b2aa9f83110e": {
   "url": "https://www.mortgage-insiders.com/top/home-equity/heloc/desk/",
   "taken": "2026-10-22",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (Just a moment...)"
  },
  "b9c85b006e9e97dc": {
   "url": "https://get-syngas.primeshopers.com/checkout/us/",
@@ -526,7 +534,7 @@
   "url": "https://myseniorsolution.com/secure-life-insurance-with-blake-z-fb",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "c10a70e1e5b7a3b4": {
   "url": "https://wondermapped.com/en/articles/look-up-home-values-by-address-036d63",
@@ -562,7 +570,7 @@
   "url": "https://www.figure.com/search/why-heloc/",
   "taken": "",
   "ok": false,
-  "error": "blank page (bot wall or nothing rendered)"
+  "error": "blank page (nothing rendered)"
  },
  "c9926c32454309bb": {
   "url": "https://www.mortgageratespro.com/quotes/steps",
