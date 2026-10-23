@@ -15,6 +15,11 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "05a1268e45316c9f": {
+  "url": "https://envado.com/va-choose-new-or-refinance",
+  "taken": "2026-10-23",
+  "ok": true
+ },
  "06108a472b7c403a": {
   "url": "https://apply.amerisave.com/quote/v1/cashout",
   "taken": "2026-10-23",
@@ -34,6 +39,11 @@
  "0d13876ec420fea5": {
   "url": "https://info.trendseeker.co/breaking-ed-2026",
   "taken": "2026-10-22",
+  "ok": true
+ },
+ "0dd6310de6c5ac21": {
+  "url": "https://yesyoucanmedical.com/en/weight-loss",
+  "taken": "2026-10-23",
   "ok": true
  },
  "0dfe7c911c93b718": {
@@ -331,9 +341,19 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "74bf6ef0caf961fc": {
+  "url": "https://bestmoney.com/mortgage-loan-match",
+  "taken": "2026-10-23",
+  "ok": true
+ },
  "750c068e10d5c5d8": {
   "url": "https://us.liyeany.com/lander/eco-obd2-2709/",
   "taken": "2026-10-22",
+  "ok": true
+ },
+ "75ad1fe698014c4e": {
+  "url": "https://itunes.apple.com/app/id1087101090",
+  "taken": "2026-10-23",
   "ok": true
  },
  "7771b61fd91674f8": {
@@ -375,6 +395,11 @@
  "8630f0e21fca2224": {
   "url": "https://bbhealthplus.com/weight-loss-lp",
   "taken": "2026-10-22",
+  "ok": true
+ },
+ "8803ee20ab1d4800": {
+  "url": "https://midasgoldgroup.com/",
+  "taken": "2026-10-23",
   "ok": true
  },
  "8b2e94555daef51f": {
@@ -460,6 +485,11 @@
  "a593e6174f2731ef": {
   "url": "https://thetoolshedjournal.org/",
   "taken": "2026-10-22",
+  "ok": true
+ },
+ "a743d5f7664156ac": {
+  "url": "https://fb.me/",
+  "taken": "2026-10-23",
   "ok": true
  },
  "a83289c5275208fc": {
@@ -551,6 +581,11 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "c2b3ed5079aefb9d": {
+  "url": "https://bbhealthplus.com/sermorelin",
+  "taken": "2026-10-23",
+  "ok": true
+ },
  "c62652af7a8455a5": {
   "url": "https://offer.americanalternativeassets.com/wealth-protection-guide",
   "taken": "2026-10-22",
@@ -627,6 +662,11 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "ddcf7081bee31fc2": {
+  "url": "https://esusurent.com/members/build-credit-with-rent",
+  "taken": "2026-10-23",
+  "ok": true
+ },
  "deff3a5e9cac14d8": {
   "url": "https://livshopo.com/health/blood05-bhBG-LP0279/",
   "taken": "2026-10-22",
@@ -667,10 +707,22 @@
   "taken": "2026-10-22",
   "ok": true
  },
+ "e64de0a167896c4c": {
+  "url": "https://www.neoraskin.com/products/lymphatic-drainage-drops",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.neoraskin.com/products/lymphatic-drainage-drops"
+ },
  "e6e4a64b4064bfb1": {
   "url": "https://www.freerateupdate.com/mortgagerates",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "e9b0a84dd173347a": {
+  "url": "https://oitrk.com/",
+  "taken": "",
+  "ok": false,
+  "error": "blank page (nothing rendered)"
  },
  "f01f16e4087097f4": {
   "url": "https://quad.medvi.org/intake-dtq",
@@ -706,6 +758,12 @@
   "url": "https://sakura-knives.com/pages/story-7",
   "taken": "2026-10-22",
   "ok": true
+ },
+ "f999a463c379eb22": {
+  "url": "https://join.battalionmetals.com/how-do-precious-metals",
+  "taken": "",
+  "ok": false,
+  "error": "blank page (nothing rendered)"
  },
  "fa3302ebbb67b1e7": {
   "url": "https://journalvitalite.com/x/weight-loss/ps3/tb/",
