@@ -6,9 +6,9 @@
  },
  "0435f2a6ba07caa3": {
   "url": "https://www.newdayusa.com/newday_lp/lp/Br_Classic_1",
-  "taken": "",
-  "ok": false,
-  "error": "Page.goto: Timeout 25000ms exceeded."
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "0579ba7ba74af0a2": {
   "url": "https://www.novatrendnews.com/smart-tv-de-sbmt",
@@ -17,9 +17,9 @@
  },
  "06108a472b7c403a": {
   "url": "https://apply.amerisave.com/quote/v1/cashout",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "bot wall (Attention Required! | Cloudflare)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io (site home: the lander blocks bots)"
  },
  "097388c3c1ddb7ee": {
   "url": "https://partners.thewaystowealth.com/point/",
@@ -209,9 +209,9 @@
  },
  "42c4d0efc540f1e0": {
   "url": "https://www.lendingtree.com/form/grove-light/he/equity_1",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "bot wall (Attention Required! | Cloudflare)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io (site home: the lander blocks bots)"
  },
  "4368fe30f69451d4": {
   "url": "https://westerngoldira.com/social/",
@@ -220,9 +220,9 @@
  },
  "4377b4c42d8f6084": {
   "url": "https://learn.augustapreciousmetals.com/company-checklist-1/",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "Page.goto: Timeout 25000ms exceeded."
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "4428a98f9d12fe17": {
   "url": "https://www.bankerology.com/article/is-now-the-right-time-to-refinance-your-mortgage-ob",
@@ -276,9 +276,9 @@
  },
  "59bc7700f55ac103": {
   "url": "https://www.fund.com/top/home-equity/heloc-rates/desk/",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "bot wall (Just a moment...)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "5bf9bde358dba2c2": {
   "url": "https://www.creditkarma.com/home-loans/i/best-mortgage-refinance-lenders",
@@ -312,9 +312,9 @@
  },
  "69f8883b4b2c9993": {
   "url": "https://www.search2online.com/Search",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "chrome"
  },
  "6bc0df9dded0d788": {
   "url": "https://bobbybarnes.homeinquirequiz.com/home-6224-4809-9424-1904",
@@ -353,9 +353,9 @@
  },
  "7db4290f9807bc86": {
   "url": "https://colonialpenn.com/products/guaranteedacceptance",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "bot wall (Access denied)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "7fdae9c6855f8eb2": {
   "url": "https://www.forbes.com/advisor/l/online-mortgage-rates-v2/",
@@ -379,9 +379,9 @@
  },
  "8b2e94555daef51f": {
   "url": "https://www.ethoslife.com/life/get-life-insurance/",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "bot wall (Attention Required! | Cloudflare)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "8f5370c71e9fca5b": {
   "url": "https://financebuzz.com/money-moves-grow-wealth-50s-yaez",
@@ -410,15 +410,15 @@
  },
  "9605996bb41a957b": {
   "url": "https://www.search2all.com/Search",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "chrome"
  },
  "96d93aaa5e29e8ba": {
   "url": "https://www.financeofamerica.com/start/estimate/",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "98f6cc632ad38e1d": {
   "url": "https://reversemortgageinca.secure-clix.com/",
@@ -427,9 +427,9 @@
  },
  "9a5b0bee60e0410d": {
   "url": "https://my.consumeraffairs.com/gold-iras/get-matched/",
-  "taken": "",
-  "ok": false,
-  "error": "bot wall (Press & Hold)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io (site home: the lander blocks bots)"
  },
  "9b0f9dfc6e4362d4": {
   "url": "https://boostmyscore.org/cr16/",
@@ -443,9 +443,9 @@
  },
  "a171053dd9501779": {
   "url": "https://www.hometap.com/overview/social",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "a2628cab0de11b68": {
   "url": "https://www.nerdwallet.com/m/mortgages/heloc-compare",
@@ -505,9 +505,9 @@
  },
  "b617b2aa9f83110e": {
   "url": "https://www.mortgage-insiders.com/top/home-equity/heloc/desk/",
-  "taken": "2026-10-22",
-  "ok": false,
-  "error": "bot wall (Just a moment...)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io"
  },
  "b9c85b006e9e97dc": {
   "url": "https://get-syngas.primeshopers.com/checkout/us/",
@@ -521,9 +521,9 @@
  },
  "bc3f170be334b15b": {
   "url": "https://www.veteransunited.com/lp/",
-  "taken": "",
-  "ok": false,
-  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.veteransunited.com/lp/"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "chrome"
  },
  "be671621f9c7d34b": {
   "url": "https://www.mortgagelenderscomparison.com/refinance",
@@ -532,9 +532,9 @@
  },
  "c0302987290f020b": {
   "url": "https://myseniorsolution.com/secure-life-insurance-with-blake-z-fb",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io (site home: the lander blocks bots)"
  },
  "c10a70e1e5b7a3b4": {
   "url": "https://wondermapped.com/en/articles/look-up-home-values-by-address-036d63",
@@ -568,9 +568,9 @@
  },
  "c89d77007330506c": {
   "url": "https://www.figure.com/search/why-heloc/",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "thum.io (site home: the lander blocks bots)"
  },
  "c9926c32454309bb": {
   "url": "https://www.mortgageratespro.com/quotes/steps",
@@ -734,9 +734,9 @@
  },
  "fe168a9e340a7c81": {
   "url": "https://www.firsttechfed.com/borrow/home-loans/home-equity",
-  "taken": "",
-  "ok": false,
-  "error": "Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.firsttechfed.com/borrow/home-loans/home-equity"
+  "taken": "2026-10-23",
+  "ok": true,
+  "via": "chrome"
  },
  "fff9f85a24fc0976": {
   "url": "https://www.readsleepdigest.com/rv-airbnb-discovery-shoulder-pain-v1",
