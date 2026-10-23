@@ -222,7 +222,7 @@
   "url": "https://learn.augustapreciousmetals.com/company-checklist-1/",
   "taken": "2026-10-22",
   "ok": false,
-  "error": "bot wall (Just a moment...)"
+  "error": "Page.goto: Timeout 25000ms exceeded."
  },
  "4428a98f9d12fe17": {
   "url": "https://www.bankerology.com/article/is-now-the-right-time-to-refinance-your-mortgage-ob",
