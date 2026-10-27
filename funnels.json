@@ -430,6 +430,11 @@
   "ok": true,
   "via": "thum.io"
  },
+ "6e43ca720fdf4330": {
+  "url": "https://www.aven.com/",
+  "taken": "2026-10-27",
+  "ok": true
+ },
  "7190d7adc6870e6f": {
   "url": "https://www.mortgagehelpcenter.org/",
   "taken": "2026-10-22",
@@ -500,6 +505,12 @@
   "url": "http://pills.moerie.com/quiz",
   "taken": "2026-10-26",
   "ok": true
+ },
+ "8953f5ebd13a22e9": {
+  "url": "https://www.unison.com/",
+  "taken": "2026-10-27",
+  "ok": true,
+  "via": "thum.io"
  },
  "8b2e94555daef51f": {
   "url": "https://www.ethoslife.com/life/get-life-insurance/",
@@ -701,6 +712,12 @@
   "taken": "2026-10-23",
   "ok": true,
   "via": "thum.io (site home: the lander blocks bots)"
+ },
+ "c0d5b560d74b8399": {
+  "url": "https://www.allegiancegold.com/",
+  "taken": "",
+  "ok": false,
+  "error": "Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.allegiancegold.com/"
  },
  "c10a70e1e5b7a3b4": {
   "url": "https://wondermapped.com/en/articles/look-up-home-values-by-address-036d63",
