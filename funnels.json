@@ -929,9 +929,9 @@
  },
  "f999a463c379eb22": {
   "url": "https://join.battalionmetals.com/how-do-precious-metals",
-  "taken": "",
-  "ok": false,
-  "error": "blank page (nothing rendered)"
+  "taken": "2026-10-28",
+  "ok": true,
+  "via": "home page https://join.battalionmetals.com/"
  },
  "fa3302ebbb67b1e7": {
   "url": "https://journalvitalite.com/x/weight-loss/ps3/tb/",
@@ -1598,5 +1598,81 @@
   "taken": "2026-10-28",
   "ok": true,
   "via": "home page https://www.wescom.org/"
+ },
+ "f04783d1419297d7": {
+  "url": "https://www.intuit.com/credit-card/r/card-benefits/how-business-credit-card-rewards-work/",
+  "taken": "2026-10-28",
+  "ok": true,
+  "via": "chrome"
+ },
+ "fd1d13640157a06e": {
+  "url": "https://sarb.path-2-career.com/article/sarb-hearing-aids-with-goverment-discounts-p2c/",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "ae6ab42eac4337d6": {
+  "url": "https://airtalkwireless.com/lifeline-enrollment",
+  "taken": "2026-10-28",
+  "ok": true,
+  "via": "thum.io"
+ },
+ "d1be0d9b0cd34526": {
+  "url": "https://www.statefarm.com/lp/gmca04",
+  "taken": "2026-10-28",
+  "ok": true,
+  "via": "thum.io"
+ },
+ "02a22185e155a1f1": {
+  "url": "https://rmn.akamaized.net/r/A5CF02B",
+  "taken": "",
+  "ok": false,
+  "error": "blank page (nothing rendered)"
+ },
+ "4babb6622d00b18a": {
+  "url": "https://brim-b.com/en/articles/complete-guide-to-cool-sculpting-in-2026-explore-non-surgical-body-contouring-options-designed-to-reduce-localized-fat",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "0c36f88dae2b6f7f": {
+  "url": "https://ad.doubleclick.net/ddm/trackclk/N1012629.3144898FACEBOOKUS/B32840594.442565686;dc_trk_aid=636245184;dc_trk_cid=251986591;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+  "taken": "2026-10-28",
+  "ok": true,
+  "via": "chrome"
+ },
+ "96c8127b89f6cb50": {
+  "url": "https://growtherapy.com/start/find-therapist-social/",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "4889c5d56204d5c3": {
+  "url": "https://bare-ritual.com/products/tallow-balm",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "9c2c751e7961708f": {
+  "url": "https://calendly.com/call-with-a-qualification-specialist/b",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "66d1bcbc1166fab9": {
+  "url": "https://coastalinsurancesolution.com/high-value-home-insurance-rates-going-up/",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "a97094cc32fdb6bd": {
+  "url": "http://www.geisinger.org/mlp/ghp/medicare-plans",
+  "taken": "2026-10-28",
+  "ok": true
+ },
+ "43b3f30f9de1ce5c": {
+  "url": "http://play.google.com/store/apps/details",
+  "taken": "2026-10-28",
+  "ok": true,
+  "via": "home page http://play.google.com/"
+ },
+ "b827cc7baf4564d0": {
+  "url": "https://fex.threeriverinsurance.com/",
+  "taken": "2026-10-28",
+  "ok": true
  }
 }
