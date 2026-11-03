@@ -1,0 +1,5 @@
+
+# Secrets: API keys live in .env / .env.local, never commit them
+.env
+.env.*
+!.env.example
