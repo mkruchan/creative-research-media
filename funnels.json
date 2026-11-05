@@ -88,6 +88,11 @@
   "taken": "2026-10-28",
   "ok": true
  },
+ "01b211f453d501da": {
+  "url": "https://saharacoins.com/",
+  "taken": "2026-11-05",
+  "ok": true
+ },
  "01e6c4c60ae161db": {
   "url": "https://www.golden1.com/credit-cards/member-cash-rewards-plus",
   "taken": "2026-10-28",
@@ -317,6 +322,12 @@
   "url": "https://comparerates.today/",
   "taken": "2026-10-28",
   "ok": true
+ },
+ "0c36f88dae2b6f7f": {
+  "url": "https://ad.doubleclick.net/ddm/trackclk/N1012629.3144898FACEBOOKUS/B32840594.442565686;dc_trk_aid=636245184;dc_trk_cid=251986591;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
+  "taken": "2026-11-05",
+  "ok": true,
+  "via": "chrome"
  },
  "0c4d5fc69444e0a5": {
   "url": "https://www.upstart.com/i/pl1-meta",
@@ -2621,11 +2632,6 @@
   "taken": "2026-10-22",
   "ok": true
  },
- "66d1bcbc1166fab9": {
-  "url": "https://coastalinsurancesolution.com/high-value-home-insurance-rates-going-up/",
-  "taken": "2026-10-31",
-  "ok": true
- },
  "675cd85c2552cbe7": {
   "url": "http://itunes.apple.com/app/id6760307397",
   "taken": "2026-10-28",
@@ -3009,7 +3015,7 @@
   "url": "https://f.penguinsurance.com/auto/insurance",
   "taken": "",
   "ok": false,
-  "error": "Page.goto: Timeout 25000ms exceeded."
+  "error": "blank page (nothing rendered)"
  },
  "74857a8771d6d513": {
   "url": "https://elliementalhealth.com/locations/manhasset-great-neck-ny/",
@@ -3066,11 +3072,6 @@
  "76ed24d61cda6ac1": {
   "url": "https://shop.nursewellversed.com/products/nursing-school-success-bundle",
   "taken": "2026-10-28",
-  "ok": true
- },
- "76fcc93c14f9391b": {
-  "url": "https://boxed.gg/events/shroud",
-  "taken": "2026-11-03",
   "ok": true
  },
  "771d1a167a9b2dff": {
@@ -3560,11 +3561,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "8ffe46dfc536413f": {
-  "url": "https://go.solvable.com/fts/3BSMQQD7OBrz-2v8xI8FZWMLF",
-  "taken": "2026-10-28",
-  "ok": true
- },
  "9009a9977182aee8": {
   "url": "https://www1.deltadentalins.com/areas-we-serve/california.html",
   "taken": "2026-10-28",
@@ -3821,6 +3817,11 @@
   "taken": "2026-10-28",
   "ok": true
  },
+ "994131243620a7a2": {
+  "url": "https://go.mmfi.ca/freeinsuranceplannl",
+  "taken": "2026-11-05",
+  "ok": true
+ },
  "9981aa5f44536bbc": {
   "url": "https://www.dripshop.live/box-break/c5a3fe8e-3a26-4ace-8dc3-a02641ba0779",
   "taken": "2026-10-28",
@@ -4021,6 +4022,11 @@
  "a0ea02ff7091eb8a": {
   "url": "https://www.lendstart.com/",
   "taken": "2026-10-27",
+  "ok": true
+ },
+ "a103137849fccef1": {
+  "url": "https://money.com/land/gold-iras-social",
+  "taken": "2026-11-05",
   "ok": true
  },
  "a11a05ec4bab33f3": {
@@ -4227,11 +4233,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "a97094cc32fdb6bd": {
-  "url": "http://www.geisinger.org/mlp/ghp/medicare-plans",
-  "taken": "2026-10-28",
-  "ok": true
- },
  "a976d4faac758b46": {
   "url": "https://boxed.gg/boxes",
   "taken": "2026-10-28",
@@ -4417,12 +4418,6 @@
   "url": "https://ivspin777.com",
   "taken": "2026-10-28",
   "ok": true
- },
- "ae6ab42eac4337d6": {
-  "url": "https://airtalkwireless.com/lifeline-enrollment",
-  "taken": "2026-10-28",
-  "ok": true,
-  "via": "thum.io"
  },
  "ae7953c221454601": {
   "url": "https://www.dunkinextras.com/",
@@ -4693,6 +4688,11 @@
  "b780d692e1933aa1": {
   "url": "http://www.growupsmiling.com/",
   "taken": "2026-10-28",
+  "ok": true
+ },
+ "b827cc7baf4564d0": {
+  "url": "https://fex.threeriverinsurance.com/",
+  "taken": "2026-11-05",
   "ok": true
  },
  "b847785d2d7c3401": {
@@ -5375,6 +5375,11 @@
  "d636be9834de113a": {
   "url": "https://trybravion.com/products/natural-pest-repellent",
   "taken": "2026-10-28",
+  "ok": true
+ },
+ "d662d58686784630": {
+  "url": "https://www.testerup.com",
+  "taken": "2026-11-05",
   "ok": true
  },
  "d67ab3966ae6b705": {
