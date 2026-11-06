@@ -1735,8 +1735,9 @@
  },
  "422f8f29cf6fa45b": {
   "url": "https://mysympleloan.com",
-  "taken": "2026-10-31",
-  "ok": true
+  "taken": "2026-11-06",
+  "ok": true,
+  "via": "thum.io"
  },
  "426736551a2ba204": {
   "url": "https://go.themoneymanual.com/",
@@ -1823,8 +1824,9 @@
  },
  "442d0f9745a123c1": {
   "url": "https://ripit.co/packs",
-  "taken": "2026-10-28",
-  "ok": true
+  "taken": "2026-11-06",
+  "ok": true,
+  "via": "thum.io"
  },
  "44b58022fd58ed4d": {
   "url": "https://provide-homeowners-savings.com/",
@@ -2028,8 +2030,9 @@
  },
  "4c55ad8ae226c8bf": {
   "url": "https://benedlife.com/products/neuralli-cognition-probiotic-memory-supplement",
-  "taken": "2026-11-02",
-  "ok": true
+  "taken": "2026-11-06",
+  "ok": true,
+  "via": "thum.io"
  },
  "4c5ab92a788ea1f0": {
   "url": "https://www.lansingcityview.com/",
@@ -3081,7 +3084,8 @@
  "76fcc93c14f9391b": {
   "url": "https://boxed.gg/events/shroud",
   "taken": "2026-11-06",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (unavailable in your location)"
  },
  "771d1a167a9b2dff": {
   "url": "https://rqw.lgnrd22.com/r/9B9B331",
@@ -3449,8 +3453,9 @@
  },
  "8b235617e10cf8a8": {
   "url": "https://myprizeus.onelink.me/2Sqr/stnzpn2h",
-  "taken": "2026-10-28",
-  "ok": true
+  "taken": "2026-11-06",
+  "ok": true,
+  "via": "thum.io"
  },
  "8b2dbe200404cbfd": {
   "url": "https://save.compare-health-quotes.com/",
@@ -4829,8 +4834,9 @@
  },
  "bc84dc8388db6bc9": {
   "url": "https://courtyard.io/vending-machine/sports-starter-pack/attr/evergreen-lf/tiktok",
-  "taken": "2026-10-28",
-  "ok": true
+  "taken": "2026-11-06",
+  "ok": false,
+  "error": "bot wall (404 ERROR)"
  },
  "bc8f047395f36ace": {
   "url": "http://www.teampetrouske.com/en/quote/renters/",
@@ -5157,7 +5163,8 @@
  "cda22c271b318ab0": {
   "url": "https://boxed.gg/",
   "taken": "2026-10-28",
-  "ok": true
+  "ok": false,
+  "error": "bot wall (unavailable in your location)"
  },
  "cdabce0ddf678456": {
   "url": "https://www.forbes.com/advisor/l/best-pet-insurance-best-price/",
@@ -6263,8 +6270,9 @@
  },
  "fac0575b98ccd092": {
   "url": "https://launchpad.rocketmortgage.com/",
-  "taken": "2026-10-22",
-  "ok": true
+  "taken": "2026-11-06",
+  "ok": true,
+  "via": "thum.io"
  },
  "facb1f5992b55d10": {
   "url": "https://ezquote.co/",
