@@ -167,11 +167,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "055607ef6911bcb8": {
-  "url": "https://courtyard.io/referrals/tiktokpack/attr/baseball/evergreen-lf/tiktok",
-  "taken": "2026-11-05",
-  "ok": true
- },
  "0579ba7ba74af0a2": {
   "url": "https://www.novatrendnews.com/smart-tv-de-sbmt",
   "taken": "2026-10-22",
@@ -327,12 +322,6 @@
   "url": "https://comparerates.today/",
   "taken": "2026-10-28",
   "ok": true
- },
- "0c36f88dae2b6f7f": {
-  "url": "https://ad.doubleclick.net/ddm/trackclk/N1012629.3144898FACEBOOKUS/B32840594.442565686;dc_trk_aid=636245184;dc_trk_cid=251986591;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1",
-  "taken": "2026-11-05",
-  "ok": true,
-  "via": "chrome"
  },
  "0c4d5fc69444e0a5": {
   "url": "https://www.upstart.com/i/pl1-meta",
@@ -502,11 +491,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "1387ebbdfdef8e0b": {
-  "url": "https://insurance.lendingtree.com/router",
-  "taken": "2026-10-29",
-  "ok": true
- },
  "13b7695fccb64107": {
   "url": "https://itrustcapital.com/precious-metals",
   "taken": "2026-10-22",
@@ -594,7 +578,7 @@
   "url": "https://maple-life-cover.com/",
   "taken": "",
   "ok": false,
-  "error": "Page.goto: net::ERR_NETWORK_CHANGED at https://maple-life-cover.com/"
+  "error": "Page.goto: Timeout 25000ms exceeded."
  },
  "1643a01d36b8da82": {
   "url": "http://plus.kikoff.com/fb",
@@ -1006,11 +990,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "24177a49e84bac8f": {
-  "url": "https://www.self.inc",
-  "taken": "2026-11-03",
-  "ok": true
- },
  "2445ff8cf62b2531": {
   "url": "https://discountedinsurancerates.com/public/child/safety/kit",
   "taken": "",
@@ -1314,6 +1293,11 @@
   "taken": "2026-10-29",
   "ok": true
  },
+ "32e3ca0ce072de29": {
+  "url": "https://betterdeals.live/find-cute-nearby",
+  "taken": "2026-11-06",
+  "ok": true
+ },
  "32f5e0ef7ae727fb": {
   "url": "https://yesyoucanmedical.com/",
   "taken": "2026-10-22",
@@ -1387,12 +1371,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "3455cc0c4e00bbc0": {
-  "url": "https://www.amfam.com/shop/bundle",
-  "taken": "2026-11-05",
-  "ok": true,
-  "via": "thum.io"
- },
  "345975111a3306fa": {
   "url": "https://metabolae.com/pages/adv-lfs3-icu-nurse-how-often-ceylon-cinnamon-aref",
   "taken": "2026-10-22",
@@ -1431,11 +1409,6 @@
  "364408dcd807c52a": {
   "url": "https://curdtoberfest.culvers.com/",
   "taken": "2026-10-28",
-  "ok": true
- },
- "36a45d0c4ff6f641": {
-  "url": "https://shop.livingooddaily.com/MakeFoodSimpleMasterclass/mfsm-collagen-special-2",
-  "taken": "2026-11-02",
   "ok": true
  },
  "36d7f998b02ddfc4": {
@@ -1976,11 +1949,6 @@
   "taken": "2026-11-03",
   "ok": true
  },
- "493937cc596ff534": {
-  "url": "https://mynuora.com/pages/gut-capsule",
-  "taken": "2026-10-26",
-  "ok": true
- },
  "49625d1ebf95a4b5": {
   "url": "https://financebuzz.com/must-have-gaming-apps",
   "taken": "2026-10-28",
@@ -1989,6 +1957,11 @@
  "49a2d90da293ca22": {
   "url": "https://www.kin.com/landing/search-tx/",
   "taken": "2026-10-28",
+  "ok": true
+ },
+ "49a68c75400c5693": {
+  "url": "https://passiondate.net/usa-dating-map",
+  "taken": "2026-11-06",
   "ok": true
  },
  "49ba87ae0d7c6911": {
@@ -2289,11 +2262,6 @@
   "taken": "2026-10-28",
   "ok": true,
   "via": "chrome"
- },
- "564e8816e4cbdb54": {
-  "url": "https://www.plan-advisor.com",
-  "taken": "2026-10-28",
-  "ok": true
  },
  "5659f9b64ac354b8": {
   "url": "https://www.misaves.com/",
@@ -3110,6 +3078,11 @@
   "taken": "2026-10-28",
   "ok": true
  },
+ "76fcc93c14f9391b": {
+  "url": "https://boxed.gg/events/shroud",
+  "taken": "2026-11-06",
+  "ok": true
+ },
  "771d1a167a9b2dff": {
   "url": "https://rqw.lgnrd22.com/r/9B9B331",
   "taken": "2026-10-28",
@@ -3424,11 +3397,6 @@
  "8858643d87ca4d73": {
   "url": "https://track.topfindtoday.com/cf/r/6ad754967115c50012664781",
   "taken": "2026-10-28",
-  "ok": true
- },
- "8860e2336d1cc2c2": {
-  "url": "http://pills.moerie.com/quiz",
-  "taken": "2026-10-29",
   "ok": true
  },
  "889cf71ffb225da3": {
@@ -3841,11 +3809,6 @@
  "982a31d5ee567221": {
   "url": "https://gotya.com/t/meta-charizard-weekly",
   "taken": "2026-10-28",
-  "ok": true
- },
- "98d02b3a5debffdb": {
-  "url": "http://opositiv.com/products/uro-metabolism-capsules",
-  "taken": "2026-10-29",
   "ok": true
  },
  "99291fa785c4135c": {
@@ -4566,6 +4529,12 @@
   "taken": "2026-10-28",
   "ok": true
  },
+ "b2bbe55261c00b6c": {
+  "url": "https://affiliate4web.go2cloud.org/aff_c",
+  "taken": "",
+  "ok": false,
+  "error": "blank page (nothing rendered)"
+ },
  "b32c598f94ae9f50": {
   "url": "http://itunes.apple.com/app/id6749654460",
   "taken": "2026-10-28",
@@ -4733,11 +4702,6 @@
  },
  "b7e26c55bd453f94": {
   "url": "https://learn.weeklyfinancialsolutions.com/open-program-fdr-5",
-  "taken": "2026-11-05",
-  "ok": true
- },
- "b827cc7baf4564d0": {
-  "url": "https://fex.threeriverinsurance.com/",
   "taken": "2026-11-05",
   "ok": true
  },
@@ -5428,11 +5392,6 @@
   "taken": "2026-10-28",
   "ok": true
  },
- "d662d58686784630": {
-  "url": "https://www.testerup.com",
-  "taken": "2026-11-05",
-  "ok": true
- },
  "d67ab3966ae6b705": {
   "url": "https://life.fidelitylife.com/fla/paid/fb-ma-multistep/",
   "taken": "2026-10-28",
@@ -5564,6 +5523,11 @@
  "dc8aff08e074582b": {
   "url": "https://go.solvable.com/fts/3BSMQQD7OBrz-3ROha24IlwWH",
   "taken": "2026-10-28",
+  "ok": true
+ },
+ "dcbd8c1a4c14d7d2": {
+  "url": "https://try.nexa-us.com/",
+  "taken": "2026-11-06",
   "ok": true
  },
  "dd26fd9dd5b30560": {
@@ -5748,6 +5712,11 @@
  "e51e2b4545526856": {
   "url": "https://offer.heolyge.com/offer/Heolyge/3d-vortex-halloween-rug/view58955",
   "taken": "2026-10-22",
+  "ok": true
+ },
+ "e5327d013d128552": {
+  "url": "https://coverd.gg/app/",
+  "taken": "2026-11-06",
   "ok": true
  },
  "e53fdd01fa6671d2": {
@@ -6021,12 +5990,6 @@
   "taken": "2026-10-22",
   "ok": true
  },
- "f04783d1419297d7": {
-  "url": "https://www.intuit.com/credit-card/r/card-benefits/how-business-credit-card-rewards-work/",
-  "taken": "2026-10-28",
-  "ok": true,
-  "via": "chrome"
- },
  "f0617fbca2a4a0af": {
   "url": "https://premierecenter.zenoti.com/webstoreNew/services",
   "taken": "2026-10-28",
@@ -6035,11 +5998,6 @@
  "f08ece381b216dfe": {
   "url": "https://boxiecat.com/pages/learn-boxiepro",
   "taken": "2026-10-28",
-  "ok": true
- },
- "f0d28bc6bef64a00": {
-  "url": "https://trybronoir.com/products/bronoir-skin-pro-bogo-insoles-2",
-  "taken": "2026-10-26",
   "ok": true
  },
  "f0f8d3262f6ee65e": {
